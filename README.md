@@ -1,34 +1,25 @@
-# blinknet
+# ⚡ PC Share – Fast, Always-On Desktop File Sharing
 
-An Electron application with React
+![Logo](images/PCshare2.JPG)
 
-## Recommended IDE Setup
+**PC Share** is a simple yet powerful desktop file-sharing app that enables ultra-fast, always-on transfers between devices. Designed for speed, minimalism, and reliability, it makes sharing files between desktops as easy as dragging and dropping — no setup, no bloat.
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+---
 
-## Project Setup
+## ✨ Features
 
-### Install
+- 🚀 **Instant Sending:** Drag & drop to share files with other desktops on your network
+- 📡 **Always-On:** Runs quietly in the background and is always ready
+- 🖥️ **Cross-Platform:** Works on Windows, macOS, and Linux
+- 🎯 **Minimal UI:** Clean interface for focused sharing without distractions
+- 🔐 **Secure:** Peer-to-peer transfers over LAN with optional encryption
+- 🌐 **Auto-Discovery:** Detects nearby devices automatically (Bonjour/mDNS-based)
 
-```bash
-$ npm install
-```
+---
 
-### Development
+## 📦 Installation
 
-```bash
-$ npm run dev
-```
+### Windows
 
-### Build
+Download the latest installer from [Releases](https://github.com/your-username/blinknet/releases) and run it.
 
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
