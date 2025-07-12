@@ -1,6 +1,15 @@
 # ⚡ PC Share – Fast, Always-On Desktop File Sharing
 
+
+## HOME-SCREEN
+![Logo](images/PCshare1.JPG)
+
+## FILE-TRANSFER-SCREEN
 ![Logo](images/PCshare2.JPG)
+
+![Logo](images/PCshare3.JPG)
+
+
 
 **PC Share** is a simple yet powerful desktop file-sharing app that enables ultra-fast, always-on transfers between devices. Designed for speed, minimalism, and reliability, it makes sharing files between desktops as easy as dragging and dropping — no setup, no bloat.
 
