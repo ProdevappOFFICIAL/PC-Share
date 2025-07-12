@@ -1,10 +1,10 @@
 {
-  "name": "blinknet",
+  "name": "PcShare",
   "version": "1.0.0",
-  "description": "An Electron application with React",
+  "description": "An Opensource Mini File Sharing Desktop Application",
   "main": "./out/main/index.js",
-  "author": "example.com",
-  "homepage": "https://electron-vite.org",
+  "author": "pcshare.vercel.app",
+  "homepage": "https://pcshare.vercel.app/home",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --cache .",
@@ -19,7 +19,17 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.1",
-    "@electron-toolkit/utils": "^4.0.0"
+    "@electron-toolkit/utils": "^4.0.0",
+    "@electron/remote": "^2.1.2",
+    "@tailwindcss/vite": "^4.1.4",
+    "electron-is-dev": "^3.0.1",
+    "lucide-react": "^0.503.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.5.0",
+    "tailwindcss": "^4.1.4",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config": "^2.0.0",

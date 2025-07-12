@@ -1,5 +1,5 @@
-appId: com.electron.app
-productName: blinknet
+appId: com.pcshare.app
+productName: pcshare
 directories:
   buildResources: build
 files:
@@ -11,7 +11,7 @@ files:
 asarUnpack:
   - resources/**
 win:
-  executableName: blinknet
+  executableName: PcShare
 nsis:
   artifactName: ${name}-${version}-setup.${ext}
   shortcutName: ${productName}
